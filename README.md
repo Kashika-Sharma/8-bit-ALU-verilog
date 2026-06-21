@@ -48,7 +48,7 @@ images/
     simulation.JPG
     Synthesis Schematic.JPG
     Synthesis Schematic close up.JPG
-    project summary.jpg
+    project summary.JPG
 
 reports/
     DESIGN AND SIMULATION OF AN 8.pdf
