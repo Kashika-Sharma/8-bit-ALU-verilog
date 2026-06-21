@@ -49,6 +49,7 @@ images/
     Synthesis Schematic.JPG
 
 reports/
+    DESIGN AND SIMULATION OF AN 8 
 ```
 
 ## Tools Used
