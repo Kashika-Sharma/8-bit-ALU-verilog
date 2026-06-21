@@ -47,6 +47,8 @@ images/
     RTL.JPG
     simulation.JPG
     Synthesis Schematic.JPG
+    Synthesis Schematic close up.JPG
+    project summary.jpg
 
 reports/
     DESIGN AND SIMULATION OF AN 8.pdf
@@ -54,7 +56,7 @@ reports/
 
 ## Tools Used
 - Verilog HDL
-- Xilinx Vivado 2025.2
+- Xilinx Vivado 
 
 ## Results
 The design was successfully simulated and synthesized in Vivado.
